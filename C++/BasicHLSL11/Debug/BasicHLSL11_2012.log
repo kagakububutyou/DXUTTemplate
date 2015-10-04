@@ -1,0 +1,19 @@
+﻿2015/10/04 11:58:42 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "E:\教材\PS13\3D授業\Basic DXUT Win32 Samples\C++\BasicHLSL11\BasicHLSL11_2012.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\DXUT\Core /I..\DXUT\Optional /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /Zc:inline /openmp- /Yc"DXUT.h" /Fp"Debug\BasicHLSL11.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt  BasicHLSL11.cpp
+         BasicHLSL11.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\BasicHLSL11.res" BasicHLSL11.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\教材\PS13\3D授業\Basic DXUT Win32 Samples\C++\Debug\BasicHLSL11.exe" /INCREMENTAL /NOLOGO d3dcompiler.lib dxguid.lib winmm.lib comctl32.lib usp10.lib imm32.lib version.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"E:\教材\PS13\3D授業\Basic DXUT Win32 Samples\C++\Debug\BasicHLSL11.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\教材\PS13\3D授業\Basic DXUT Win32 Samples\C++\Debug\BasicHLSL11.lib" /MACHINE:X86 /SAFESEH  Debug\BasicHLSL11.res
+         Debug\BasicHLSL11.obj
+         "E:\教材\PS13\3D授業\Basic DXUT Win32 Samples\C++\DXUT\Core\Bin\Desktop_2012\Win32\Debug\DXUT.lib"
+         "E:\教材\PS13\3D授業\Basic DXUT Win32 Samples\C++\DXUT\Optional\Bin\Desktop_2012\Win32\Debug\DXUTOpt.lib"
+     1>BasicHLSL11.obj : warning LNK4075: /EDITANDCONTINUE は /SAFESEH の指定によって無視されます。
+         BasicHLSL11_2012.vcxproj -> E:\教材\PS13\3D授業\Basic DXUT Win32 Samples\C++\Debug\BasicHLSL11.exe
+     1>プロジェクト "E:\教材\PS13\3D授業\Basic DXUT Win32 Samples\C++\BasicHLSL11\BasicHLSL11_2012.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.69

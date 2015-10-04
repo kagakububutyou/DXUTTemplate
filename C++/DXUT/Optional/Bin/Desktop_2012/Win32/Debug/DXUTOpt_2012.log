@@ -1,0 +1,35 @@
+﻿2015/10/04 11:58:35 にビルドを開始しました。
+     1>ノード 3 上のプロジェクト "E:\教材\PS13\3D授業\Basic DXUT Win32 Samples\C++\DXUT\Optional\DXUTOpt_2012.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\Core\ /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D _LIB /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /Zc:inline /openmp- /Yc"DXUT.h" /Fp"Bin\Desktop_2012\Win32\Debug\DXUTOpt.pch" /Fo"Bin\Desktop_2012\Win32\Debug\\" /Fd"Bin\Desktop_2012\Win32\Debug\DXUTOpt.pdb" /Gd /TP /analyze- /errorReport:prompt  DXUTres.cpp
+         DXUTres.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\Core\ /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D _LIB /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /Zc:inline /openmp- /Yu"DXUT.h" /Fp"Bin\Desktop_2012\Win32\Debug\DXUTOpt.pch" /Fo"Bin\Desktop_2012\Win32\Debug\\" /Fd"Bin\Desktop_2012\Win32\Debug\DXUTOpt.pdb" /Gd /TP /analyze- /errorReport:prompt  DXUTcamera.cpp DXUTgui.cpp DXUTguiIME.cpp DXUTsettingsdlg.cpp ImeUi.cpp SDKmesh.cpp SDKmisc.cpp
+         DXUTcamera.cpp
+         DXUTgui.cpp
+     1>e:\教材\ps13\3d授業\basic dxut win32 samples\c++\dxut\optional\dxutgui.cpp(6647): warning C4458: 'iTexture' を宣言すると、クラス メンバーが隠蔽されます
+         e:\教材\ps13\3d授業\basic dxut win32 samples\c++\dxut\optional\dxutgui.h(117): note: 'CDXUTElement::iTexture' の宣言を確認してください
+     1>e:\教材\ps13\3d授業\basic dxut win32 samples\c++\dxut\optional\dxutgui.cpp(6662): warning C4458: 'iFont' を宣言すると、クラス メンバーが隠蔽されます
+         e:\教材\ps13\3d授業\basic dxut win32 samples\c++\dxut\optional\dxutgui.h(118): note: 'CDXUTElement::iFont' の宣言を確認してください
+     1>e:\教材\ps13\3d授業\basic dxut win32 samples\c++\dxut\optional\dxutgui.cpp(6662): warning C4458: 'dwTextFormat' を宣言すると、クラス メンバーが隠蔽されます
+         e:\教材\ps13\3d授業\basic dxut win32 samples\c++\dxut\optional\dxutgui.h(119): note: 'CDXUTElement::dwTextFormat' の宣言を確認してください
+         DXUTguiIME.cpp
+         DXUTsettingsdlg.cpp
+         ImeUi.cpp
+         SDKmesh.cpp
+         SDKmisc.cpp
+         コードを生成中...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"Bin\Desktop_2012\Win32\Debug\DXUTOpt.lib" /NOLOGO Bin\Desktop_2012\Win32\Debug\DXUTcamera.obj
+         Bin\Desktop_2012\Win32\Debug\DXUTgui.obj
+         Bin\Desktop_2012\Win32\Debug\DXUTguiIME.obj
+         Bin\Desktop_2012\Win32\Debug\DXUTres.obj
+         Bin\Desktop_2012\Win32\Debug\DXUTsettingsdlg.obj
+         Bin\Desktop_2012\Win32\Debug\ImeUi.obj
+         Bin\Desktop_2012\Win32\Debug\SDKmesh.obj
+         Bin\Desktop_2012\Win32\Debug\SDKmisc.obj
+         DXUTOpt_2012.vcxproj -> E:\教材\PS13\3D授業\Basic DXUT Win32 Samples\C++\DXUT\Optional\Bin\Desktop_2012\Win32\Debug\DXUTOpt.lib
+     1>プロジェクト "E:\教材\PS13\3D授業\Basic DXUT Win32 Samples\C++\DXUT\Optional\DXUTOpt_2012.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:06.17
